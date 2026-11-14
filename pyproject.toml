@@ -1,6 +1,6 @@
 [project]
 name = "heap-based-top-k-utils"
-version = "0.1.1"
+version = "0.1.2"
 description = "A min-heap data structure that tracks the largest N numbers seen in a stream"
 requires-python = ">=3.10"
 dependencies = []
